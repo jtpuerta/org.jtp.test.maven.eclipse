@@ -1,0 +1,5 @@
+2023-06-15 19:35:58.763 [main] DEBUG org.jtp.test.maven.eclipse.App - We've just greeted the user!
+2023-06-15 19:35:58.770 [main] INFO  org.jtp.test.maven.eclipse.App - We've just greeted the user!
+2023-06-15 19:35:58.771 [main] WARN  org.jtp.test.maven.eclipse.App - We've just greeted the user!
+2023-06-15 19:35:58.772 [main] ERROR org.jtp.test.maven.eclipse.App - We've just greeted the user!
+2023-06-15 19:35:58.773 [main] FATAL org.jtp.test.maven.eclipse.App - We've just greeted the user!
